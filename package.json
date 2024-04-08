@@ -1,0 +1,26 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "Currency Converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Generative-AI-Developer/currency_converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Generative-AI-Developer/currency_converter/issues"
+  },
+  "homepage": "https://github.com/Generative-AI-Developer/currency_converter#readme",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
